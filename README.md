@@ -1,2 +1,6 @@
-# jp-bohler
-Official JP Bohler book website: Perfect Your Basketball Shot At Home, book editions and a free practice log.
+# JP Bohler
+
+Official JP Bohler book website: https://submartingaleoptions.github.io/jp-bohler/
+
+Static HTML, CSS and browser-only practice log. No analytics or registration. Publish main branch, repository root, through GitHub Pages.
+

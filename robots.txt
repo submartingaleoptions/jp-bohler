@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://submartingaleoptions.github.io/jp-bohler/sitemap.xml
+
